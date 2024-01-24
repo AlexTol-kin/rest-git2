@@ -18,7 +18,7 @@
 
 10. git branch [branch_name] - создаем новую ветку
 
-10.1 git branch --d [branch_name] - удаляем ветку из репозитория
+10.1 git branch -D [branch_name] - удаляем ветку из репозитория
 
 11. git checkout - переключаемся между ветками
 
